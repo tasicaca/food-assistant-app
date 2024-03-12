@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Food Assistant</string>
+
+    <string name="title_activity_defaultni">Dobrodošli</string>
+
+    <string name="title_pocetna">Početna</string>
+    <string name="title_ostalo">Ostalo</string>
+    <string name="title_statistika">Statistika</string>
+
+    <string-array name="rezimiIshrane">
+        <item>Odaberi režim ishrane</item>
+        <item>Izbalansirana ishrana</item>
+        <item>Ishrana sa malo šečera</item>
+        <item>Proteinska ishrana</item>
+        <item>Vegetarijanska ishrana</item>
+    </string-array>
+
+    <string-array name="pol">
+        <item>Odaberi pol</item>
+        <item>Muški</item>
+        <item>Ženski</item>
+    </string-array>
+
+    <string-array name="nivoAktivnosti">
+        <item>Odaberi nivo aktivnosti</item>
+        <item>Neaktivan</item>
+        <item>Retko aktivan</item>
+        <item>Aktivan</item>
+        <item>Veoma aktivan</item>
+    </string-array>
+
+</resources>
