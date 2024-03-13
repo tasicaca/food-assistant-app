@@ -1,1 +1,15 @@
 # food-assistant-app
+
+![bc55fd9d710374db7eefae090660b83f-16](https://github.com/tasicaca/food-assistant-app/assets/96747833/bb5cb16e-724a-4678-8bcb-1e0b3b4f60bc)
+![bc55fd9d710374db7eefae090660b83f-15](https://github.com/tasicaca/food-assistant-app/assets/96747833/34020119-3f02-4de6-af6a-3275cf8f8ac0)
+![bc55fd9d710374db7eefae090660b83f-14](https://github.com/tasicaca/food-assistant-app/assets/96747833/1348af94-7fc6-4d05-858e-c32243813680)
+![bc55fd9d710374db7eefae090660b83f-13](https://github.com/tasicaca/food-assistant-app/assets/96747833/2132af08-5050-4fab-98c6-200262f80bae)
+![bc55fd9d710374db7eefae090660b83f-12](https://github.com/tasicaca/food-assistant-app/assets/96747833/24da1b7d-e05a-4ab2-9423-286086eb8264)
+![bc55fd9d710374db7eefae090660b83f-11](https://github.com/tasicaca/food-assistant-app/assets/96747833/df5a38cb-8687-443d-aa58-e721702c96af)
+![bc55fd9d710374db7eefae090660b83f-10](https://github.com/tasicaca/food-assistant-app/assets/96747833/13f0d5d4-8386-4827-b7bb-2c0756210222)
+![bc55fd9d710374db7eefae090660b83f-9](https://github.com/tasicaca/food-assistant-app/assets/96747833/2b5c2349-e8ad-421f-9c9b-36fb9e1b5ba3)
+![bc55fd9d710374db7eefae090660b83f-8](https://github.com/tasicaca/food-assistant-app/assets/96747833/3ba47a96-9abe-4eb5-9ff7-daba57bee05c)
+![bc55fd9d710374db7eefae090660b83f-7](https://github.com/tasicaca/food-assistant-app/assets/96747833/f848e66e-80e3-48ff-85b0-c36f1078aa76)
+![bc55fd9d710374db7eefae090660b83f-6](https://github.com/tasicaca/food-assistant-app/assets/96747833/69646c4b-076d-4f5d-9940-8b76b4aea669)
+![bc55fd9d710374db7eefae090660b83f-5](https://github.com/tasicaca/food-assistant-app/assets/96747833/1b7b07d0-34f7-492a-becc-fb7ede2039b6)
+![bc55fd9d710374db7eefae090660b83f-4](https://github.com/tasicaca/food-assistant-app/assets/96747833/987262b4-2919-4a80-96cd-5398d129d976)
